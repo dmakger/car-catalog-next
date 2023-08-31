@@ -1,0 +1,18 @@
+.header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+	padding: 10px
+};
+
+.header a {
+	color: #fff;
+	margin: 20px 10px !important;
+	transition: color .4s ease-in-out;
+	font-size: 20px;
+}
+
+.header a:hover {
+	color: aquamarine;
+}
